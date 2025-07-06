@@ -9,12 +9,14 @@ redirect_from:
 
 About me
 ------
-Byungjun Kim is a postdoctoral researcher at Rutgers University (PI: Prof. Minsung Kim). His research interests focus on the application of **reinforcement learning and quantum computing--inspired algorithms to wireless communications and sensing systems**.
+I am a postdoctoral researcher in the Department of Computer Science and WINLAB at Rutgers University (PI: Prof. Minsung Kim). Before joining Rutgers, I received my Ph.D. in Electrical and Computer Engineering from University of California, San Diego.
+
+My research interest focuses computing systems including machine learning for wireless communications and sensing. My research interests focus on the application of **reinforcement learning and quantum computing--inspired algorithms to wireless communications and sensing systems**.
 
 News
 ------
 **[May 2025]** Joined Rutgers university as a postdoctoral researhcer. \
-**[March 2025]** I finally defended!
+**[March 2025]** Finally defended and submitted dissertation!
 
 Education
 ======
