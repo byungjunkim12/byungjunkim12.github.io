@@ -20,15 +20,15 @@ author_profile: true
   * Applied adaptive learning algorithms for **user selection in massive MU-MIMO systems** to enhance adaptability to environmental variations. Developed **transfer learning and meta-learning algorithms** to minimize the data required for model adaptation in new environments.
   * Supervisor: Dr. Hosein Nikopour and Dr. Oner Orhan
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
     
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+   -->
