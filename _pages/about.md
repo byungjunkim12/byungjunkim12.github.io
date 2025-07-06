@@ -9,9 +9,9 @@ redirect_from:
 
 About me
 ------
-I am a postdoctoral researcher in the Department of Computer Science and WINLAB at Rutgers University (PI: Prof. Minsung Kim). Before joining Rutgers, I received my Ph.D. in Electrical and Computer Engineering from University of California, San Diego.
+I am a postdoctoral researcher in the **Department of Computer Science** and **WINLAB** at **Rutgers University** (PI: Prof. Minsung Kim). Before joining Rutgers, I received my Ph.D. in Electrical and Computer Engineering from **University of California, San Diego**, supported by **Kwanjeong Educational Foundation Fellowship**.
 
-My research interest focuses computing systems including machine learning for wireless communications and sensing. My research interests focus on the application of **reinforcement learning and quantum computing--inspired algorithms to wireless communications and sensing systems**.
+My research interest focuses **computing systems including machine learning for wireless communications and sensing**. My research interests focus on the application of **reinforcement learning and quantum computing--inspired algorithms to wireless communications and sensing systems**.
 
 News
 ------

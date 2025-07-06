@@ -17,11 +17,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Other work"
-    url: /other/
+  - title: "Professional activities"
+    url: /professional/
 
-  # - title: "Talks"
-  #   url: /talk/    
+  - title: "Skills"
+    url: /skill/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
