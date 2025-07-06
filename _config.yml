@@ -13,7 +13,7 @@ title                    : "Byungjun Kim"
 title_separator          : "-"
 name                     : &name "Byungjun Kim"
 description              : &description "personal description"
-url                      : https://byungjunkim12.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://byungjunkim12.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "byungjunkim12"
 
@@ -22,13 +22,13 @@ repository               : "byungjunkim12"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_4028.JPG"
   name             : "Byungjun Kim"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral researcher enthusiastic in Wireless Communication/AI/Quantum Computing"
+  bio              : "AI · Wireless Communications · Quantum Computing enthusiast"
   location         : "New Brunswick, NJ"
   employer         : "Rutgers University"
-  uri              : "https://byungjunkim12"
+  uri              : "https://byungjunkim12.github.io"
   email            : "byungjun.k@rutgers.edu" 
 
   # Academic websites
