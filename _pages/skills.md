@@ -15,9 +15,6 @@ author_profile: true
 
 {% include base_path %}
 
-
-Skills
-======
 **Programming Language**: Python (Pytorch, Tensorflow, Keras), C++ (GNURadio, ns-3), C#, MATLAB, LaTeX, Kotlin, Dart
 
 **Software Packages**: Kubernetes, Docker, Wireshark, SUMO, Unity3D, ANSYS Maxwell
