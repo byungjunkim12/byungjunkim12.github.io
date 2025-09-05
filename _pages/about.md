@@ -9,7 +9,10 @@ redirect_from:
 
 About me
 ------
-I am a postdoctoral researcher in the **Department of Computer Science** and **WINLAB** at **Rutgers University** (PI: Prof. Minsung Kim). Before joining Rutgers, I received my Ph.D. in Electrical and Computer Engineering from **University of California, San Diego**, supported by **Kwanjeong Educational Foundation Fellowship**.
+{% if site.author.kwanjeong %}
+I am a postdoctoral researcher in the **Department of Computer Science** and **WINLAB** at **Rutgers University** (PI: Prof. Minsung Kim). Before joining Rutgers, I received my Ph.D. in Electrical and Computer Engineering from **University of California, San Diego**, supported by 
+<a href="{{site.author.kwanjeong}}"><strong>Kwanjeong Educational Foundation Fellowship</strong></a>.
+{% endif %}
 
 My research interest focuses on **computing systems for next-generation wireless communications and sensing**. Specifically, I develop and apply **both reinforcement learning techniques, including imitation learning, and quantum-inspired optimization algorithms**.
 
